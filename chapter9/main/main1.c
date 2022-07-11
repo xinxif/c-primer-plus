@@ -8,5 +8,5 @@ int main(void)
 }
 void func(void)
 {
-	printf("debug ÐÞ¸Ä\n");
+	printf("debug ä¿®æ”¹\n");
 }
