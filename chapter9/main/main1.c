@@ -8,5 +8,5 @@ int main(void)
 }
 void func(void)
 {
-	printf(u8"vs 修改\n");
+	printf("debug ÐÞ¸Ä\n");
 }
