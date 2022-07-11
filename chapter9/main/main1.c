@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-	printf("debug µÚÒ»´ÎĞŞ¸Ä ");
+	printf("debug æ€ä¹ˆæ˜¯ä¹±ç  ");
 	printf("hello c\n");
 	return 0;
 }
