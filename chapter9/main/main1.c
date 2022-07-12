@@ -8,5 +8,6 @@ int main(void)
 }
 void func(void)
 {
-	printf("debug ÐÞ¸Ä\n");
+	printf("测试中文\n");
+	printf("再次测试中文\n");
 }
