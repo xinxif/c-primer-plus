@@ -10,5 +10,5 @@ void func(void)
 {
 	printf("测试中文\n");
 	printf("再次测试中文\n");
-
+	printf("github 写入的中文");
 }
