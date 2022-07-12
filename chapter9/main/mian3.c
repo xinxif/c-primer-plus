@@ -4,6 +4,7 @@ int main(void)
 {
 	//测试
 	int max = find_max(31,6,3);
+
 	printf("%d", max);
 	return 0;
 }
