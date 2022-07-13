@@ -1,8 +1,30 @@
 
 #include"function.h"
 #include<stdio.h>
+
+double min(double, double);
+
+double harmonic_mean(double, double);
+
+unsigned long Fibonacci(unsigned int n);
 int main(void)
 {
+
+
+	//9.1函数测试
+	double result = min(3.0, 2.4);
+	printf("%0.2f\n", result);
+
+
+	//9.2函数测试
+	chline('*', 2, 5);
+
+	//9.3函数测试
+	print_char('9', 2, 5);
+	
+	//9.4函数测试
+	//result = harmonic_mean(3.0, -2.0);
+	printf("%0.2f\n", result);
 
 	//9.5函数测试
 	double x, y;
