@@ -9,8 +9,8 @@
 *.vcxproj.filters
 *.vcxproj.user
 /.git
-*.gitattributes
-*.gitignore
+.gitattributes
+.gitignore
 # User-specific files
 *.rsuser
 *.suo
